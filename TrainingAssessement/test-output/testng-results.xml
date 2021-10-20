@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="8940" started-at="2021-10-18T08:57:01Z" finished-at="2021-10-18T08:57:10Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="8940" started-at="2021-10-18T08:57:01Z" finished-at="2021-10-18T08:57:10Z">
+      <class name="com.sam.b3.TrainingAssessement.TestScenarios">
+        <test-method status="PASS" signature="TS001()[pri:0, instance:com.sam.b3.TrainingAssessement.TestScenarios@6a41eaa2]" name="TS001" duration-ms="8687" started-at="2021-10-18T08:57:01Z" finished-at="2021-10-18T08:57:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TS001 -->
+        <test-method status="PASS" signature="TearDown()[pri:0, instance:com.sam.b3.TrainingAssessement.TestScenarios@6a41eaa2]" name="TearDown" is-config="true" duration-ms="228" started-at="2021-10-18T08:57:09Z" finished-at="2021-10-18T08:57:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TearDown -->
+      </class> <!-- com.sam.b3.TrainingAssessement.TestScenarios -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
